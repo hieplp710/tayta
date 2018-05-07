@@ -1,0 +1,3 @@
+tayta site info:
+username: admin
+pass: 6TbbXzKeIhRuTIaSHx
