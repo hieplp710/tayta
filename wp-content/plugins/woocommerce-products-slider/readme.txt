@@ -4,7 +4,7 @@
 	Tags: carousel, product, slider, woocommerce, carousel slider, product slider, woocommerce slider, Woocommerce Product slider
 	Requires at least: 3.8
 	Tested up to: 4.9
-	Stable tag: 1.12.20
+	Stable tag: 1.12.21
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,6 +93,8 @@ then paste this shortcode anywhere in your page to display slider<br />
 == Changelog ==
 
 
+	= 1.12.21 =
+    * 16/05/2018 fix - remove last comma on categories.
 
 	= 1.12.20 =
     * 20/02/2018 fix - PHP error issue fixed.
