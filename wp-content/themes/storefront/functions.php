@@ -67,3 +67,15 @@ if ( version_compare( get_bloginfo( 'version' ), '4.7.3', '>=' ) && ( is_admin()
  * Note: Do not add any custom code here. Please use a custom plugin so that your customizations aren't lost during updates.
  * https://github.com/woocommerce/theme-customisations
  */
+
+function wpb_widgets_init() {
+	register_sidebar( array(
+		'name' => 'Header Widget',
+		'id' => 'header-widget',
+		'before_widget' => '<div class="hw-widget">',
+		'after_widget' => '</div>',
+		'before_title' => '<h2 class="hw-title">',
+		'after_title' => '</h2>',
+		) );
+}
+add_action( 'widgets_init', 'wpb_widgets_init' );
