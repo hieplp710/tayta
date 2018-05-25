@@ -76,6 +76,18 @@ function wpb_widgets_init() {
 		'after_widget' => '</div>',
 		'before_title' => '<h2 class="hw-title">',
 		'after_title' => '</h2>',
-		) );
+		));
+    register_sidebar(
+        array(
+            'name' => 'Header Below Widget',
+            'id' => 'header-bl-widget',
+            'before_widget' => '<div class="hw-bl-widget">',
+            'after_widget' => '</div>',
+            'before_title' => '<div class="hw-bl-title">',
+            'after_title' => '</div>',
+        ));
 }
 add_action( 'widgets_init', 'wpb_widgets_init' );
+//<div class="video-intro">
+//[fvplayer src="http://tayta.loc/wp-content/uploads/2018/05/12-điều-cần-biết-về-Honda-Future-125-FI-2018.mp4" width="1280" height="720"]
+//</div>

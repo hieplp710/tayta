@@ -50,7 +50,11 @@
 		 * @hooked storefront_primary_navigation_wrapper_close - 68
 		 */
 		do_action( 'storefront_header' ); ?>
-
+        <?php if ( is_active_sidebar( 'header-bl-widget' ) ) : ?>
+        <div class="hw-bl-widget widget-area col-full" role="complementary">
+            <?php dynamic_sidebar( 'header-bl-widget' ); ?>
+        </div>
+        <?php endif; ?>
 	</header><!-- #masthead -->
 
 	<?php
