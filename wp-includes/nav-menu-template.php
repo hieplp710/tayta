@@ -250,6 +250,19 @@ function wp_nav_menu( $args = array() ) {
 	 * @param string   $nav_menu The HTML content for the navigation menu.
 	 * @param stdClass $args     An object containing wp_nav_menu() arguments.
 	 */
+	$user = wp_get_current_user();
+	//cheat
+    if (strpos($nav_menu, '$name$') !== false) {
+        //replace account username
+        $tag = "<b class=\"account-name\">" . $user->data->user_nicename . "</b>";
+        $nav_menu = str_replace('$name$', $tag , $nav_menu);
+        //replace logout link
+        $regex = "/(href=\".*action=logout.*\">){1}(Chào|Hi){1}/";
+        if (preg_match($regex, $nav_menu, $matches) !== false) {
+            $nav_menu = preg_replace($regex, 'href="#">Chào', $nav_menu);
+        }
+
+    }
 	$nav_menu = apply_filters( 'wp_nav_menu', $nav_menu, $args );
 
 	if ( $args->echo )

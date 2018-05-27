@@ -4,7 +4,7 @@
  * Plugin Name: FB Messenger Live Chat
  * Plugin URI: https://zotabox.com/zbv2/facebookchat?utm_source=wordpress.com&utm_medium=Facebook%20Live%20Chat&utm_campaign=ecommerce%20plugins&authuser=anonymous
  * Description: Support your customers via <strong>Facebook Live Chat</strong> conveniently from your own website. 10+ more popular marketing tools also included.
- * Version: 1.4.0
+ * Version: 1.4.1
  * Author: Zotabox
  * Author URI: https://zotabox.com/dashboard/?utm_source=wordpress.com&utm_medium=Facebook%20Live%20Chat&utm_campaign=ecommerce%20plugins&authuser=anonymous
  * License: SMB 1.0
@@ -103,7 +103,9 @@ function zb_fbc_setting(){
 					
 					<div class="form-group button-wrapper">
 						<input class="ztb-submit-button" type="submit" value="Start Using Your New Tools Now" /><br><br>
-						<div style="width: 400px;margin: auto;color: #888;">* Zotabox is a 3rd party service. A Zotabox account will be created automatically and you can delete it at any time.</div>
+						<div style="width: 80%;margin: auto;color: #888; padding-top: 10px;"><strong>Note:</strong> Zotabox is a 3rd party service provider. A Zotabox account will be created automatically and you can delete it at any time.<br><br>
+							You will receive important account, informational and promotional emails from us and remarketing ads via Google Adwords. For information to opt out of these ads and emails at any time, please visit <a href="https://info.zotabox.com/privacy-policy/" target="_blank">our privacy page</a>.
+						</div>
 					</div>
 					</form>';
 		$button = '';

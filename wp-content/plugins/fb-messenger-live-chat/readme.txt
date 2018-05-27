@@ -64,7 +64,9 @@ Zotabox is based in Hanoi, Vietnam and we build high quality onsite marketing to
 
 Zotabox’s free tools are free forever. You may also test our premium tools at anytime by starting our 14 day premium free trial. 
 
-(*) Zotabox is a 3rd party service. A Zotabox account will be created automatically and you can delete it at any time.
+<strong>Note:</strong> Zotabox is a 3rd party service provider. A Zotabox account will be created automatically and you can delete it at any time.
+
+You will receive important account, informational and promotional emails from us and remarketing ads via Google Adwords. For information to opt out of these ads and emails at any time, please visit <a href="https://info.zotabox.com/privacy-policy/" target="_blank">our privacy page</a>.
 
 
 == Installation ==
