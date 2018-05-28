@@ -28,7 +28,7 @@
 	<header id="masthead" class="site-header" role="banner" style="<?php storefront_header_styles(); ?>">
 		<?php
 			if ( is_active_sidebar( 'header-widget' ) ) : ?>
-				<div id="header-widget-area" class="hw-widget widget-area" role="complementary">
+				<div id="header-widget-area" class="hw-widget widget-area col-full" role="complementary">
 				<?php dynamic_sidebar( 'header-widget' ); ?>
 				</div>
 
