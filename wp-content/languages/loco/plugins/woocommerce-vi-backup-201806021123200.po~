@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-05-27 10:46+0000\n"
+"PO-Revision-Date: 2018-06-02 11:21+0000\n"
 "Last-Translator: admin <hieplp710@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -6426,7 +6426,7 @@ msgstr ""
 #: includes/wc-template-functions.php:1324
 #: templates/single-product/tabs/description.php:25
 msgid "Description"
-msgstr ""
+msgstr "Mô tả sản phẩm"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:41
 #: includes/admin/settings/views/html-keys-edit.php:70
@@ -6672,7 +6672,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-assets.php:247
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:47
 msgid "Name (required)"
-msgstr ""
+msgstr "Tên (bắt buộc)"
 
 #: includes/admin/class-wc-admin-assets.php:248
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:48
@@ -6734,7 +6734,7 @@ msgstr ""
 #: includes/widgets/class-wc-widget-product-categories.php:56
 #: templates/single-product-reviews.php:77
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/admin/class-wc-admin-assets.php:271
 #: includes/admin/meta-boxes/views/html-product-attribute.php:8
@@ -7091,11 +7091,11 @@ msgstr ""
 #. translators: %s: review author
 #: includes/admin/class-wc-admin-dashboard.php:280
 msgid "reviewed by %s"
-msgstr ""
+msgstr "đánh giá bởi %s"
 
 #: includes/admin/class-wc-admin-dashboard.php:286
 msgid "There are no product reviews yet."
-msgstr ""
+msgstr "Chưa có đánh giá cho sản phẩm"
 
 #. translators: %s: post title
 #: includes/admin/class-wc-admin-duplicate-product.php:61
@@ -7400,7 +7400,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-meta-boxes.php:119
 #: includes/admin/class-wc-admin-pointers.php:156
 msgid "Product short description"
-msgstr ""
+msgstr "Mô tả"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:120
 #: includes/admin/views/html-bulk-edit-product.php:15
@@ -7446,7 +7446,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-products.php:383
 #: templates/single-product-reviews.php:36
 msgid "Reviews"
-msgstr ""
+msgstr "Đánh giá"
 
 #: includes/admin/class-wc-admin-notices.php:128
 #: includes/class-wc-checkout.php:156 includes/class-wc-checkout.php:163
@@ -7520,7 +7520,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-pointers.php:73
 msgid "Product description"
-msgstr ""
+msgstr "Mô tả sản phẩm"
 
 #: includes/admin/class-wc-admin-pointers.php:74
 msgid ""
@@ -8084,7 +8084,7 @@ msgstr ""
 #: includes/class-wc-post-types.php:337 includes/class-wc-query.php:112
 #: includes/wc-account-functions.php:101
 msgid "Orders"
-msgstr ""
+msgstr "Đơn hàng"
 
 #: includes/admin/class-wc-admin-reports.php:50
 msgid "Sales by date"
@@ -11912,12 +11912,12 @@ msgstr ""
 
 #: includes/admin/reports/class-wc-report-customer-list.php:206
 msgid "Name (Last, First)"
-msgstr ""
+msgstr "Tên đầy đủ"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:207
 #: includes/class-wc-checkout.php:212 templates/myaccount/form-login.php:84
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:209
 msgid "Location"
@@ -12385,7 +12385,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-accounts.php:146
 #: includes/class-wc-query.php:127 includes/wc-account-functions.php:103
 msgid "Addresses"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:147
 msgid "Endpoint for the \"My account &rarr; Addresses\" page."
@@ -12408,7 +12408,7 @@ msgstr ""
 #: includes/wc-account-functions.php:106
 #: templates/auth/form-grant-access.php:39
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:174
 msgid ""
@@ -16317,17 +16317,17 @@ msgstr ""
 #: includes/api/class-wc-rest-product-reviews-controller.php:176
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:542
 msgid "Review rating (0 to 5)."
-msgstr ""
+msgstr "Đánh giá (0-5)"
 
 #: includes/api/class-wc-rest-product-reviews-controller.php:181
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:547
 msgid "Reviewer name."
-msgstr ""
+msgstr "Tên người đánh giá"
 
 #: includes/api/class-wc-rest-product-reviews-controller.php:186
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:552
 msgid "Reviewer email."
-msgstr ""
+msgstr "Email người đánh giá"
 
 #: includes/api/class-wc-rest-product-reviews-controller.php:191
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:557
@@ -16671,12 +16671,12 @@ msgstr ""
 #: includes/api/class-wc-rest-products-controller.php:1505
 #: includes/api/v1/class-wc-rest-products-controller.php:1796
 msgid "Product description."
-msgstr ""
+msgstr "Mô tả sản phẩm"
 
 #: includes/api/class-wc-rest-products-controller.php:1510
 #: includes/api/v1/class-wc-rest-products-controller.php:1801
 msgid "Product short description."
-msgstr ""
+msgstr "Mô tả"
 
 #: includes/api/class-wc-rest-products-controller.php:1520
 #: includes/api/v1/class-wc-rest-products-controller.php:1811
@@ -16805,7 +16805,7 @@ msgstr ""
 #: includes/api/class-wc-rest-products-controller.php:1767
 #: includes/api/v1/class-wc-rest-products-controller.php:2055
 msgid "List of related products IDs."
-msgstr ""
+msgstr "Danh sách Id sản phẩm tương tự "
 
 #: includes/api/class-wc-rest-products-controller.php:1776
 msgid "List of up-sell products IDs."
@@ -18664,7 +18664,7 @@ msgstr ""
 
 #: includes/api/v1/class-wc-rest-customers-controller.php:412
 msgid "Username isn't editable."
-msgstr ""
+msgstr "Tên đăng nhập không thể sửa"
 
 #: includes/api/v1/class-wc-rest-customers-controller.php:466
 msgid "Customers do not support trashing."
@@ -18778,7 +18778,7 @@ msgstr ""
 
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:68
 msgid "Review content."
-msgstr ""
+msgstr "Nội dung đánh giá"
 
 #: includes/api/v1/class-wc-rest-product-reviews-controller.php:73
 msgid "Name of the reviewer."
@@ -19769,7 +19769,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:289
 msgid "Account details changed successfully."
-msgstr ""
+msgstr "Thông tin tài khoản đã được cập nhật thành công"
 
 #: includes/class-wc-form-handler.php:412
 msgid "Invalid payment gateway."
@@ -19828,7 +19828,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:721
 msgid "Your order was cancelled."
-msgstr ""
+msgstr "Đơn hàng của bạn đã được hủy"
 
 #: includes/class-wc-form-handler.php:726
 msgid ""
@@ -19867,7 +19867,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:988
 msgid "Username is required."
-msgstr ""
+msgstr "Tên đăng nhập là bắt buộc"
 
 #: includes/class-wc-form-handler.php:1063
 msgid "Please enter your password."
@@ -20457,7 +20457,7 @@ msgstr ""
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:123
 #: includes/wc-account-functions.php:105
 msgid "Account details"
-msgstr ""
+msgstr "Thông tin tài khoản"
 
 #. translators: %s: ID of the attachment.
 #: includes/class-wc-regenerate-images-request.php:105
@@ -20917,7 +20917,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:89
 msgid "Your order is complete"
-msgstr ""
+msgstr "Đơn hàng của bạn đã hoàn tất"
 
 #: includes/emails/class-wc-email-customer-invoice.php:28
 msgid "Customer invoice / Order details"
@@ -21002,7 +21002,7 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-on-hold-order.php:63
 #: includes/emails/class-wc-email-customer-processing-order.php:65
 msgid "Thank you for your order"
-msgstr ""
+msgstr "Cảm ơn đã đặt hàng"
 
 #: includes/emails/class-wc-email-customer-processing-order.php:29
 msgid "Processing order"
@@ -22464,12 +22464,12 @@ msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:246
 msgid "Enter a username or email address."
-msgstr ""
+msgstr "Nhập tên đăng nhập hoặc email"
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:271
 #: includes/shortcodes/class-wc-shortcode-my-account.php:277
 msgid "Invalid username or email."
-msgstr ""
+msgstr "Tên đăng nhập không đúng"
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:291
 msgid "Password reset is not allowed for this user"
@@ -23383,7 +23383,7 @@ msgstr ""
 #. translators: %s: reviews count
 #: includes/wc-template-functions.php:1343
 msgid "Reviews (%d)"
-msgstr ""
+msgstr "Đánh giá (%d)"
 
 #: includes/wc-template-functions.php:1646
 msgid "Checkout"
@@ -23430,12 +23430,12 @@ msgstr ""
 
 #: includes/wc-user-functions.php:61
 msgid "Please enter a valid account username."
-msgstr ""
+msgstr "Tên đăng nhập không chính xác"
 
 #: includes/wc-user-functions.php:65
 msgid ""
 "An account is already registered with that username. Please choose another."
-msgstr ""
+msgstr "Tên đăng nhập đã có, vui lòng chọn tên khác."
 
 #: includes/wc-user-functions.php:85
 msgid "Please enter an account password."
@@ -23671,7 +23671,7 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:29
 msgid "Recent reviews"
-msgstr ""
+msgstr "Đánh giá gần đây"
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:38
 msgid "Number of reviews to show"
@@ -23731,7 +23731,7 @@ msgstr ""
 
 #: templates/auth/form-login.php:44 templates/myaccount/form-login.php:44
 msgid "Username or email address"
-msgstr ""
+msgstr "Tên đăng nhập hoặc email"
 
 #: templates/auth/header.php:29
 msgid "Application authentication request"
@@ -23816,7 +23816,7 @@ msgstr ""
 
 #: templates/checkout/form-checkout.php:55
 msgid "Your order"
-msgstr ""
+msgstr "Đơn hàng của bạn"
 
 #: templates/checkout/form-coupon.php:28
 msgid "Have a coupon?"
@@ -23945,6 +23945,8 @@ msgid ""
 "You can access your account area to view your orders and change your "
 "password here: %s."
 msgstr ""
+"Bạn có thể truy cập thông tin tài khoản để xem đơn hàng của bạn và thay đổi "
+"thông tin tài khoản ở đây: %s"
 
 #: templates/emails/customer-note.php:28
 #: templates/emails/plain/customer-note.php:25
@@ -23986,7 +23988,7 @@ msgstr ""
 #: templates/emails/customer-reset-password.php:28
 #: templates/emails/plain/customer-reset-password.php:27
 msgid "Username: %s"
-msgstr ""
+msgstr "Tên đăng nhập: %s"
 
 #: templates/emails/customer-reset-password.php:29
 #: templates/emails/plain/customer-reset-password.php:28
@@ -24050,7 +24052,7 @@ msgstr ""
 #: templates/global/form-login.php:35
 #: templates/myaccount/form-lost-password.php:30
 msgid "Username or email"
-msgstr ""
+msgstr "Tên đăng nhập hoặc email"
 
 #: templates/global/form-login.php:51 templates/myaccount/form-login.php:58
 msgid "Remember me"
@@ -24082,7 +24084,7 @@ msgstr ""
 #. translators: 1: user display name 2: logout url
 #: templates/myaccount/dashboard.php:29
 msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
-msgstr ""
+msgstr "Chào %1$s (không phải %1$s? <a href=\"%2$s\">Đăng xuất</a>)"
 
 #: templates/myaccount/dashboard.php:37
 msgid ""
@@ -24090,6 +24092,9 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a> "
 "and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
+"Ở phần Thông tin tài khoản, bạn có thể xem <a href=\"%1$s\">đơn hàng gần "
+"đây</a>, quản lý <a href=\"%2$s\">vận chuyển, bill</a> và <a href=\"%3$s\">"
+"thay đổi thông tin tài khoản</a>."
 
 #: templates/myaccount/downloads.php:41 templates/myaccount/orders.php:101
 msgid "Go shop"
@@ -24107,19 +24112,19 @@ msgstr ""
 
 #: templates/myaccount/form-edit-account.php:45
 msgid "Password change"
-msgstr ""
+msgstr "Thay đổi mật khẩu"
 
 #: templates/myaccount/form-edit-account.php:48
 msgid "Current password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Mật khẩu hiện tại (bỏ trống nếu không thay đổi)"
 
 #: templates/myaccount/form-edit-account.php:52
 msgid "New password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Mật khẩu mới (bỏ trống nếu không thay đổi)"
 
 #: templates/myaccount/form-edit-account.php:56
 msgid "Confirm new password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 #: templates/myaccount/form-edit-address.php:52
 msgid "Save address"
@@ -24134,6 +24139,8 @@ msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr ""
+"Quên mật khẩu? Hãy nhập tên đăng nhập hoặc email. Chúng tôi sẽ tạo 1 mật "
+"khẩu mới và gửi cho bạn qua email."
 
 #: templates/myaccount/form-reset-password.php:27
 msgid "Enter a new password below."
@@ -24160,11 +24167,11 @@ msgstr ""
 
 #: templates/myaccount/my-address.php:41
 msgid "The following addresses will be used on the checkout page by default."
-msgstr ""
+msgstr "Thông tin này sẽ được sử dụng để checkout."
 
 #: templates/myaccount/my-address.php:57
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Bạn chưa nhập thông tin địa chỉ."
 
 #: templates/myaccount/my-downloads.php:30
 msgid "Available downloads"
@@ -24316,7 +24323,7 @@ msgstr[1] ""
 
 #: templates/single-product/related.php:27
 msgid "Related products"
-msgstr ""
+msgstr "Sản phẩm tương tự "
 
 #: templates/single-product/review-meta.php:28
 msgid "Your review is awaiting approval"
@@ -24359,7 +24366,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:88
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."
-msgstr ""
+msgstr "Bạn phải login mới có thể đăng bài đánh giá."
 
 #: templates/single-product-reviews.php:92
 msgid "Your rating"
@@ -24391,12 +24398,12 @@ msgstr ""
 
 #: templates/single-product-reviews.php:102
 msgid "Your review"
-msgstr ""
+msgstr "Đánh giá của bạn"
 
 #: templates/single-product-reviews.php:111
 msgid ""
 "Only logged in customers who have purchased this product may leave a review."
-msgstr ""
+msgstr "Chỉ khách hàng đã mua sản phẩm mới có thể đánh giá cho sản phẩm"
 
 #. Plugin URI of the plugin/theme
 msgid "https://woocommerce.com/"

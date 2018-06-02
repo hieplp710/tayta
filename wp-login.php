@@ -861,9 +861,12 @@ default:
 			}
 		}
 	}
-
+    
 	if ( isset( $_REQUEST['redirect_to'] ) ) {
 		$redirect_to = $_REQUEST['redirect_to'];
+        if (preg_match('/(redirect_to=.*)/', $redirect_to, $matches)){
+            $redirect_to = str_replace('redirect_to=', '', $matches[0]);
+        }
 		// Redirect to https if user wants ssl
 		if ( $secure_cookie && false !== strpos($redirect_to, 'wp-admin') )
 			$redirect_to = preg_replace('|^http://|', 'https://', $redirect_to);
@@ -898,9 +901,8 @@ default:
 	 * @param string           $requested_redirect_to The requested redirect destination URL passed as a parameter.
 	 * @param WP_User|WP_Error $user                  WP_User object if login was successful, WP_Error object otherwise.
 	 */
-	$redirect_to = apply_filters( 'login_redirect', $redirect_to, $requested_redirect_to, $user );
-
-	if ( !is_wp_error($user) && !$reauth ) {
+	//$redirect_to = apply_filters( 'login_redirect', $redirect_to, $requested_redirect_to, $user );
+    if ( !is_wp_error($user) && !$reauth ) {
 		if ( $interim_login ) {
 			$message = '<p class="message">' . __('You have logged in successfully.') . '</p>';
 			$interim_login = 'success';

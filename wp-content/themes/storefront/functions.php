@@ -91,3 +91,12 @@ add_action( 'widgets_init', 'wpb_widgets_init' );
 //<div class="video-intro">
 //[fvplayer src="http://tayta.loc/wp-content/uploads/2018/05/12-điều-cần-biết-về-Honda-Future-125-FI-2018.mp4" width="1280" height="720"]
 //</div>
+function auto_login_new_user( $user_id ) {
+    wp_set_current_user($user_id);
+    wp_set_auth_cookie($user_id);
+    // You can change home_url() to the specific URL,such as
+    //wp_redirect( 'http://www.wpcoke.com' );
+    wp_redirect( home_url() );
+    exit;
+}
+add_action( 'user_register', 'auto_login_new_user' );

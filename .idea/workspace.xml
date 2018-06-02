@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a8bd6e-bac5-4efa-b033-3fc047d3ed14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.mo" afterPath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.mo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/class-formbuilder.php" afterPath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/class-formbuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/first-name/first-name.php" afterPath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/first-name/first-name.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/last-name/last-name.php" afterPath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/last-name/last-name.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/username/username.php" afterPath="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/username/username.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-login.php" afterPath="$PROJECT_DIR$/wp-login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,118 +23,127 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
+      <file leaf-file-name="default-fields.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/default-fields.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="storefront-template-functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
+      <file leaf-file-name="class-formbuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/class-formbuilder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="554" column="53" lean-forward="true" selection-start-line="554" selection-start-column="53" selection-end-line="554" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wc-template-functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="748" column="65" lean-forward="false" selection-start-line="748" selection-start-column="25" selection-end-line="748" selection-end-column="65" />
+            <state relative-caret-position="838">
+              <caret line="180" column="9" lean-forward="false" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
               <folding>
-                <marker date="1527521281400" expanded="true" signature="65742:65755" ph="..." />
+                <marker date="1527913023213" expanded="true" signature="2914:3076" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-product_cat.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="178">
+              <caret line="114" column="60" lean-forward="false" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="60" />
+              <folding>
+                <marker date="1527260606149" expanded="true" signature="2253:2317" ph="SELECT user_... ${$wpdb-&gt;users}" />
+                <marker date="1527260606149" expanded="true" signature="2940:3004" ph="SELECT user_... ${$wpdb-&gt;users}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wc-template-hooks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-hooks.php">
+      <file leaf-file-name="wp-login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="104" column="56" lean-forward="false" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
-              <folding />
+            <state relative-caret-position="353">
+              <caret line="868" column="9" lean-forward="false" selection-start-line="868" selection-start-column="9" selection-end-line="868" selection-end-column="9" />
+              <folding>
+                <marker date="1527917599138" expanded="true" signature="32791:32798" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/footer.php">
+      <file leaf-file-name="wp-signup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-13512">
+              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <marker date="1508323010000" expanded="true" signature="10193:10200" ph="..." />
+                <marker date="1508323010000" expanded="true" signature="15017:15024" ph="..." />
+                <marker date="1508323010000" expanded="true" signature="15028:15035" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="storefront-template-hooks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-hooks.php">
+      <file leaf-file-name="profile-builder.catalog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/translation/profile-builder.catalog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="40" column="51" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="269">
+              <caret line="1083" column="23" lean-forward="false" selection-start-line="1083" selection-start-column="19" selection-end-line="1083" selection-end-column="23" />
+              <folding>
+                <marker date="1527260606351" expanded="true" signature="19021:19186" ph="Select which... " />
+                <marker date="1527260606351" expanded="true" signature="19313:19407" ph="Select which... " />
+                <marker date="1527260606351" expanded="true" signature="43272:43276" ph="&lt;" />
+                <marker date="1527260606351" expanded="true" signature="43297:43301" ph="&gt;" />
+                <marker date="1527260606351" expanded="true" signature="43312:43316" ph="&lt;" />
+                <marker date="1527260606351" expanded="true" signature="43318:43322" ph="&gt;" />
+                <marker date="1527260606351" expanded="true" signature="72844:72849" ph="..." />
+                <marker date="1527260606351" expanded="true" signature="73136:73141" ph="..." />
+                <marker date="1527260606351" expanded="true" signature="98993:99003" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
-              <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+            <state relative-caret-position="721">
+              <caret line="101" column="53" lean-forward="false" selection-start-line="101" selection-start-column="53" selection-end-line="101" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="general-template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55104">
-              <caret line="2629" column="25" lean-forward="false" selection-start-line="2629" selection-start-column="16" selection-end-line="2629" selection-end-column="25" />
+            <state relative-caret-position="703">
+              <caret line="205" column="68" lean-forward="false" selection-start-line="205" selection-start-column="34" selection-end-line="205" selection-end-column="68" />
               <folding>
-                <marker date="1526745260565" expanded="true" signature="28736:28749" ph="..." />
-                <marker date="1526745260565" expanded="true" signature="56350:56532" ph="SELECT YEAR(... " />
-                <marker date="1526745260565" expanded="true" signature="57424:57559" ph="SELECT YEAR(... " />
-                <marker date="1526745260565" expanded="true" signature="58324:58568" ph="SELECT YEAR(... " />
-                <marker date="1526745260565" expanded="true" signature="59539:59777" ph="SELECT DISTI... " />
-                <marker date="1526745260565" expanded="true" signature="61181:61239" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1526745260565" expanded="true" signature="63544:63639" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
-                <marker date="1526745260565" expanded="true" signature="64877:65091" ph="SELECT MONTH... " />
-                <marker date="1526745260565" expanded="true" signature="65120:65351" ph="SELECT MONTH... " />
-                <marker date="1526745260565" expanded="true" signature="65527:65668" ph="..." />
-                <marker date="1526745260565" expanded="true" signature="65662:65668" ph="..." />
-                <marker date="1526745260565" expanded="true" signature="66113:66119" ph="..." />
-                <marker date="1526745260565" expanded="true" signature="66922:66928" ph="..." />
-                <marker date="1526745260565" expanded="true" signature="67021:67256" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
+                <marker date="1527260606164" expanded="true" signature="533:595" ph="SELECT * FRO... ${$wpdb-&gt;signups}" />
+                <marker date="1527260606164" expanded="true" signature="642:715" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1527260606164" expanded="true" signature="1564:1618" ph="SELECT * FRO... ${$wpdb-&gt;signups}" />
+                <marker date="1527260606164" expanded="true" signature="1664:1733" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="infinity.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php">
+      <file leaf-file-name="auto-login-after-registration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/auto-login-after-registration/auto-login-after-registration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19761">
-              <caret line="950" column="20" lean-forward="false" selection-start-line="950" selection-start-column="20" selection-end-line="950" selection-end-column="20" />
+            <state relative-caret-position="-3350">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto_login_on_register_setting.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/auto-login-after-registration/pages/auto_login_on_register_setting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-441">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,29 +153,42 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>widget_product_search</find>
-      <find>storefront</find>
-      <find>get_product_search_form</find>
-      <find>storefront_before_site</find>
-      <find>get_search_form()</find>
-      <find>storefront_product_search</find>
-      <find>storefront_header_cart</find>
-      <find>storefront_footer</find>
-      <find>storefront_credit</find>
-      <find>storefront_privacy_policy_link</find>
-      <find>wp_footer</find>
-      <find>woocommerce-loop-category</find>
-      <find>product-category product</find>
-      <find>product-category produc</find>
-      <find>product-category</find>
-      <find>product-category</find>
-      <find>woocommerce-loop-category__title</find>
-      <find>woocommerce_template_loop_category_title</find>
+      <find>woocommerce-products-header__title page-title</find>
+      <find>woocommerce_show_page_title</find>
+      <find>Contact Info</find>
+      <find>wppb_'.$form_location.'_firstname_item_title</find>
+      <find>wppb_re_firstname_item_title</find>
+      <find>wppb_reg_firstname_item_title</find>
+      <find>wppb_regi_firstname_item_title</find>
+      <find>wppb_regis_firstname_item_title</find>
+      <find>wppb_registoer_firstname_item_title</find>
+      <find>wppb_registoe_firstname_item_title</find>
+      <find>wppb_registo_firstname_item_title</find>
+      <find>wppb_regist_firstname_item_title</find>
+      <find>wppb_registe_firstname_item_title</find>
+      <find>wppb_register_firstname_item_title</find>
+      <find>wppb_first_name_handler</find>
+      <find>Users can register themselves or you can manually create users here.</find>
+      <find>wp-login.php</find>
+      <find>redirec</find>
+      <find>t</find>
+      <find>register</find>
+      <find>login_redirect</find>
+      <find>The account lytong has been successfully created!</find>
+      <find>The account lytong has been successfully created</find>
+      <find>The account lytonghas been successfully created</find>
+      <find>The account lhas been successfully created</find>
+      <find>The account has been successfully created</find>
+      <find>The accounthas been successfully created</find>
+      <find>has been successfully created</find>
+      <find>redirect</find>
+      <find>soon</find>
     </findStrings>
     <dirStrings>
-      <dir>E:\outsource\tayta</dir>
       <dir>E:\outsource\tayta\wp-content\themes\storefront\inc</dir>
       <dir>E:\outsource\tayta\wp-content\themes</dir>
+      <dir>E:\outsource\tayta</dir>
+      <dir>E:\outsource\tayta\wp-content\plugins</dir>
       <dir>E:\outsource\tayta\wp-content</dir>
     </dirStrings>
   </component>
@@ -178,10 +207,18 @@
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-hooks.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/first-name/first-name.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/username/username.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/last-name/last-name.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/class-formbuilder.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/weglot/weglot.php" />
+        <option value="$PROJECT_DIR$/wp-login.php" />
+        <option value="$PROJECT_DIR$/wp-signup.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
       </list>
     </option>
   </component>
@@ -214,7 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,6 +291,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tayta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tayta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -278,44 +332,19 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="storefront" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tayta" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tayta" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storefront" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-tracking" />
-    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/header.php&#10;template-homepage.php&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/template-homepage.php&#10;style.css&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/style.css&#10;sto&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="wp-login.php&#9;FILE&#9;file://E:/outsource/tayta/wp-login.php&#10;header&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/header.php&#10;template-homepage.php&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/template-homepage.php&#10;style.css&#9;FILE&#9;file://E:/outsource/tayta/wp-content/themes/storefront/style.css&#10;sto&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -416,15 +445,16 @@
       <workItem from="1526720937958" duration="6964000" />
       <workItem from="1526917536257" duration="4579000" />
       <workItem from="1527259702170" duration="15000" />
-      <workItem from="1527518047120" duration="1693000" />
+      <workItem from="1527518047120" duration="3763000" />
+      <workItem from="1527694418614" duration="7814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18515000" />
+    <option name="totallyTimeSpent" value="28399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2078125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,12 +462,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -457,139 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-includes/theme-compat/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2058">
-          <caret line="98" column="47" lean-forward="false" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/class-storefront.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4473">
-          <caret line="213" column="10" lean-forward="false" selection-start-line="213" selection-start-column="10" selection-end-line="213" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/customizer/class-storefront-customizer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6489">
-          <caret line="313" column="1" lean-forward="false" selection-start-line="313" selection-start-column="1" selection-end-line="313" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <marker date="1526745260565" expanded="true" signature="28736:28749" ph="..." />
-            <marker date="1526745260565" expanded="true" signature="56350:56532" ph="SELECT YEAR(... " />
-            <marker date="1526745260565" expanded="true" signature="57424:57559" ph="SELECT YEAR(... " />
-            <marker date="1526745260565" expanded="true" signature="58324:58568" ph="SELECT YEAR(... " />
-            <marker date="1526745260565" expanded="true" signature="59539:59777" ph="SELECT DISTI... " />
-            <marker date="1526745260565" expanded="true" signature="61181:61239" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-            <marker date="1526745260565" expanded="true" signature="63544:63639" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
-            <marker date="1526745260565" expanded="true" signature="64877:65091" ph="SELECT MONTH... " />
-            <marker date="1526745260565" expanded="true" signature="65120:65351" ph="SELECT MONTH... " />
-            <marker date="1526745260565" expanded="true" signature="65527:65668" ph="..." />
-            <marker date="1526745260565" expanded="true" signature="65662:65668" ph="..." />
-            <marker date="1526745260565" expanded="true" signature="66113:66119" ph="..." />
-            <marker date="1526745260565" expanded="true" signature="66922:66928" ph="..." />
-            <marker date="1526745260565" expanded="true" signature="67021:67256" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="74" column="69" lean-forward="false" selection-start-line="73" selection-start-column="3" selection-end-line="74" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8820">
-          <caret line="420" column="9" lean-forward="false" selection-start-line="420" selection-start-column="9" selection-end-line="420" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/class-storefront.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4473">
-          <caret line="213" column="10" lean-forward="true" selection-start-line="213" selection-start-column="10" selection-end-line="213" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
@@ -743,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1974">
           <caret line="98" column="47" lean-forward="false" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,14 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55104">
@@ -818,16 +706,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state relative-caret-position="336">
+          <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="554" column="53" lean-forward="true" selection-start-line="554" selection-start-column="53" selection-end-line="554" selection-end-column="53" />
+        <state relative-caret-position="11550">
+          <caret line="554" column="53" lean-forward="false" selection-start-line="554" selection-start-column="53" selection-end-line="554" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1930">
+          <caret line="550" column="9" lean-forward="false" selection-start-line="550" selection-start-column="9" selection-end-line="550" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11655">
+          <caret line="562" column="78" lean-forward="false" selection-start-line="562" selection-start-column="16" selection-end-line="562" selection-end-column="78" />
+          <folding>
+            <marker date="1527609707094" expanded="true" signature="65742:65755" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/edit-profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="57" column="44" lean-forward="false" selection-start-line="55" selection-start-column="6" selection-end-line="57" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -840,28 +769,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/first-name/first-name.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1930">
-          <caret line="550" column="9" lean-forward="false" selection-start-line="550" selection-start-column="9" selection-end-line="550" selection-end-column="9" />
+        <state relative-caret-position="-357">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/username/username.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="748" column="65" lean-forward="false" selection-start-line="748" selection-start-column="25" selection-end-line="748" selection-end-column="65" />
+        <state relative-caret-position="84">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding>
-            <marker date="1527521281400" expanded="true" signature="65742:65755" ph="..." />
+            <marker date="1527912505830" expanded="true" signature="3736:3796" ph="SELECT * FRO... ${$wpdb-&gt;prefix}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product_cat.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/last-name/last-name.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+        <state relative-caret-position="84">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/default-fields/default-fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/class-formbuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="180" column="9" lean-forward="false" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
+          <folding>
+            <marker date="1527913023213" expanded="true" signature="2914:3076" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="114" column="60" lean-forward="false" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="60" />
+          <folding>
+            <marker date="1527260606149" expanded="true" signature="2253:2317" ph="SELECT user_... ${$wpdb-&gt;users}" />
+            <marker date="1527260606149" expanded="true" signature="2940:3004" ph="SELECT user_... ${$wpdb-&gt;users}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="868" column="9" lean-forward="false" selection-start-line="868" selection-start-column="9" selection-end-line="868" selection-end-column="9" />
+          <folding>
+            <marker date="1527917599138" expanded="true" signature="32791:32798" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/weglot/weglot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1993">
+          <caret line="173" column="8" lean-forward="false" selection-start-line="173" selection-start-column="8" selection-end-line="176" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13512">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <marker date="1508323010000" expanded="true" signature="10193:10200" ph="..." />
+            <marker date="1508323010000" expanded="true" signature="15017:15024" ph="..." />
+            <marker date="1508323010000" expanded="true" signature="15028:15035" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/translation/profile-builder.catalog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="1083" column="23" lean-forward="false" selection-start-line="1083" selection-start-column="19" selection-end-line="1083" selection-end-column="23" />
+          <folding>
+            <marker date="1527260606351" expanded="true" signature="19021:19186" ph="Select which... " />
+            <marker date="1527260606351" expanded="true" signature="19313:19407" ph="Select which... " />
+            <marker date="1527260606351" expanded="true" signature="43272:43276" ph="&lt;" />
+            <marker date="1527260606351" expanded="true" signature="43297:43301" ph="&gt;" />
+            <marker date="1527260606351" expanded="true" signature="43312:43316" ph="&lt;" />
+            <marker date="1527260606351" expanded="true" signature="43318:43322" ph="&gt;" />
+            <marker date="1527260606351" expanded="true" signature="72844:72849" ph="..." />
+            <marker date="1527260606351" expanded="true" signature="73136:73141" ph="..." />
+            <marker date="1527260606351" expanded="true" signature="98993:99003" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/profile-builder/front-end/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="205" column="68" lean-forward="false" selection-start-line="205" selection-start-column="34" selection-end-line="205" selection-end-column="68" />
+          <folding>
+            <marker date="1527260606164" expanded="true" signature="533:595" ph="SELECT * FRO... ${$wpdb-&gt;signups}" />
+            <marker date="1527260606164" expanded="true" signature="642:715" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1527260606164" expanded="true" signature="1564:1618" ph="SELECT * FRO... ${$wpdb-&gt;signups}" />
+            <marker date="1527260606164" expanded="true" signature="1664:1733" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/auto-login-after-registration/auto-login-after-registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/auto-login-after-registration/pages/auto_login_on_register_setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="101" column="53" lean-forward="false" selection-start-line="101" selection-start-column="53" selection-end-line="101" selection-end-column="53" />
           <folding />
         </state>
       </provider>
