@@ -86,6 +86,16 @@ function wpb_widgets_init() {
             'before_title' => '<div class="hw-bl-title">',
             'after_title' => '</div>',
         ));
+
+    register_sidebar(
+        array(
+            'name' => 'Full width Header Below Widget',
+            'id' => 'fw-header-bl-widget',
+            'before_widget' => '<div class="fw-hw-bl-widget">',
+            'after_widget' => '</div>',
+            'before_title' => '<div class="fw-hw-bl-title">',
+            'after_title' => '</div>',
+        ));
 }
 add_action( 'widgets_init', 'wpb_widgets_init' );
 //<div class="video-intro">

@@ -56,7 +56,9 @@
         </div>
         <?php endif; ?>
 	</header><!-- #masthead -->
-
+    <div class="fw-hw-bl-widget-wrapper widget-area" role="complementary">
+        <?php dynamic_sidebar( 'fw-header-bl-widget' ); ?>
+    </div>
 	<?php
 	/**
 	 * Functions hooked in to storefront_before_content

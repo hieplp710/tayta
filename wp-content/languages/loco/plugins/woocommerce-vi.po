@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-06-02 11:23+0000\n"
+"PO-Revision-Date: 2018-06-03 11:21+0000\n"
 "Last-Translator: admin <hieplp710@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -7059,14 +7059,14 @@ msgstr ""
 #: includes/admin/class-wc-admin-dashboard.php:157
 msgid "<strong>%s order</strong> awaiting processing"
 msgid_plural "<strong>%s orders</strong> awaiting processing"
-msgstr[0] ""
+msgstr[0] "<strong>Đơn hàng %s</strong> đang chờ xử lý"
 msgstr[1] ""
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-dashboard.php:168
 msgid "<strong>%s order</strong> on-hold"
 msgid_plural "<strong>%s orders</strong> on-hold"
-msgstr[0] ""
+msgstr[0] "<strong>Đơn hàng %s</strong> Đang chờ"
 msgstr[1] ""
 
 #. translators: %s: order count
@@ -7378,7 +7378,7 @@ msgstr ""
 #: includes/admin/settings/views/html-webhooks-edit.php:33
 #: includes/wc-account-functions.php:193 templates/myaccount/my-orders.php:15
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
 #. translators: %s: extensions count
 #: includes/admin/class-wc-admin-menus.php:131
@@ -10133,7 +10133,7 @@ msgstr ""
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:138
 msgid "Change status to processing"
-msgstr ""
+msgstr "Chuyển sang đang xử lý"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:139
 msgid "Change status to on-hold"
@@ -10141,7 +10141,7 @@ msgstr ""
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:140
 msgid "Change status to completed"
-msgstr ""
+msgstr "Chuyển sang hoàn tất"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:178
 msgid "Preview"
@@ -10168,7 +10168,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:269
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:542
 msgid "Processing"
-msgstr ""
+msgstr "Đang xử lý"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:277
 msgid "Complete"
@@ -10182,7 +10182,7 @@ msgstr ""
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:623
 #: templates/emails/email-order-details.php:36
 msgid "Order #%s"
-msgstr ""
+msgstr "Đơn hàng #%s"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:342
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:138
@@ -10237,11 +10237,11 @@ msgstr ""
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:533
 msgid "On-hold"
-msgstr ""
+msgstr "Đang chờ"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:534
 msgid "Change order status to on-hold"
-msgstr ""
+msgstr "Chuyển đơn hàng sang đang chờ"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:543
 msgid "Change order status to processing"
@@ -10249,15 +10249,15 @@ msgstr ""
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:551
 msgid "Completed"
-msgstr ""
+msgstr "Hoàn tất"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:552
 msgid "Change order status to completed"
-msgstr ""
+msgstr "Chuyển sang sang hoàn tất"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:559
 msgid "Change status: "
-msgstr ""
+msgstr "Thay đổi trạng thái"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:605
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:606
@@ -10674,7 +10674,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:233
 msgid "Status:"
-msgstr ""
+msgstr "Trạng thái:"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:237
 msgid "Customer payment page &rarr;"
@@ -12206,7 +12206,7 @@ msgstr "Không tìm thấy sản phẩm"
 #: includes/admin/views/html-admin-page-status-logs.php:35
 #: includes/wc-account-functions.php:271
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 #. translators: %s: product count
 #: includes/admin/reports/class-wc-report-stock.php:152
@@ -12364,7 +12364,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-accounts.php:119
 #: includes/class-wc-post-types.php:344
 msgid "View order"
-msgstr ""
+msgstr "Xem"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:120
 msgid "Endpoint for the \"My account &rarr; View order\" page."
@@ -15824,7 +15824,7 @@ msgstr ""
 #: includes/api/class-wc-rest-orders-controller.php:844
 #: includes/api/v1/class-wc-rest-orders-controller.php:930
 msgid "Order status."
-msgstr ""
+msgstr "Trạng thái đơn hàng"
 
 #: includes/api/class-wc-rest-orders-controller.php:851
 #: includes/api/v1/class-wc-rest-orders-controller.php:949
@@ -19824,7 +19824,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:718
 msgid "Order cancelled by customer."
-msgstr ""
+msgstr "Đơn hàng đã bị hủy bởi người dùng"
 
 #: includes/class-wc-form-handler.php:721
 msgid "Your order was cancelled."
@@ -20377,25 +20377,25 @@ msgstr[1] ""
 #: includes/class-wc-post-types.php:458
 msgid "Processing <span class=\"count\">(%s)</span>"
 msgid_plural "Processing <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Đang xử lý <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: includes/class-wc-post-types.php:466
 msgid "On hold <span class=\"count\">(%s)</span>"
 msgid_plural "On hold <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Đang chờ <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: includes/class-wc-post-types.php:474
 msgid "Completed <span class=\"count\">(%s)</span>"
 msgid_plural "Completed <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Hoàn tất <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: includes/class-wc-post-types.php:482
 msgid "Cancelled <span class=\"count\">(%s)</span>"
 msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Đã hủy <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: includes/class-wc-post-types.php:490
@@ -20819,7 +20819,7 @@ msgstr ""
 #: includes/emails/class-wc-email-cancelled-order.php:27
 #: includes/emails/class-wc-email-cancelled-order.php:65
 msgid "Cancelled order"
-msgstr ""
+msgstr "Đơn hàng đã bị hủy"
 
 #: includes/emails/class-wc-email-cancelled-order.php:28
 msgid ""
@@ -20903,7 +20903,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:28
 msgid "Completed order"
-msgstr ""
+msgstr "Đơn hàng hoàn tất"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:29
 msgid ""
@@ -20986,7 +20986,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-on-hold-order.php:28
 msgid "Order on-hold"
-msgstr ""
+msgstr "Đơn hàng đang chờ"
 
 #: includes/emails/class-wc-email-customer-on-hold-order.php:29
 msgid ""
@@ -21006,7 +21006,7 @@ msgstr "Cảm ơn đã đặt hàng"
 
 #: includes/emails/class-wc-email-customer-processing-order.php:29
 msgid "Processing order"
-msgstr ""
+msgstr "Đơn hàng đang xử lý"
 
 #: includes/emails/class-wc-email-customer-processing-order.php:30
 msgid ""
@@ -24214,7 +24214,7 @@ msgstr ""
 #. translators: 1: order number 2: order date 3: order status
 #: templates/myaccount/view-order.php:29 templates/order/tracking.php:27
 msgid "Order #%1$s was placed on %2$s and is currently %3$s."
-msgstr ""
+msgstr "Đơn hàng #%1$s được đặc vào %2$s và %3$s."
 
 #: templates/myaccount/view-order.php:37 templates/order/tracking.php:35
 msgid "Order updates"
@@ -24788,22 +24788,22 @@ msgstr ""
 #: includes/class-wc-post-types.php:453 includes/wc-order-functions.php:98
 msgctxt "Order status"
 msgid "Processing"
-msgstr ""
+msgstr "Đang xử lý"
 
 #: includes/class-wc-post-types.php:461 includes/wc-order-functions.php:99
 msgctxt "Order status"
 msgid "On hold"
-msgstr ""
+msgstr "Đang chờ"
 
 #: includes/class-wc-post-types.php:469 includes/wc-order-functions.php:100
 msgctxt "Order status"
 msgid "Completed"
-msgstr ""
+msgstr "Hoàn tất"
 
 #: includes/class-wc-post-types.php:477 includes/wc-order-functions.php:101
 msgctxt "Order status"
 msgid "Cancelled"
-msgstr ""
+msgstr "Đã hủy"
 
 #: includes/class-wc-post-types.php:485 includes/wc-order-functions.php:102
 msgctxt "Order status"
