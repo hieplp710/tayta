@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-06-03 11:21+0000\n"
+"PO-Revision-Date: 2018-06-07 15:37+0000\n"
 "Last-Translator: admin <hieplp710@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -19036,7 +19036,7 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:258 templates/cart/cart-empty.php:33
 msgid "Return to shop"
-msgstr ""
+msgstr "Tiếp tục mua sắm"
 
 #: includes/class-wc-ajax.php:809 includes/class-wc-ajax.php:865
 msgid "Invalid order"
@@ -19394,6 +19394,8 @@ msgid ""
 "Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return "
 "to shop</a>"
 msgstr ""
+"Rất tiếc, phiên của bạn đã hết. <a href=\"%s\" class=\"wc-backward\">Tiếp "
+"tục mua sắm</a>"
 
 #: includes/class-wc-comments.php:140
 msgid "Please rate the product."
@@ -19794,11 +19796,11 @@ msgstr ""
 #: includes/class-wc-form-handler.php:518
 #: includes/class-wc-form-handler.php:521
 msgid "%s removed."
-msgstr ""
+msgstr "%s đã bị xóa."
 
 #: includes/class-wc-form-handler.php:519
 msgid "Undo?"
-msgstr ""
+msgstr "Phục hồi"
 
 #: includes/class-wc-form-handler.php:572
 msgid "You can only have 1 %s in your cart."

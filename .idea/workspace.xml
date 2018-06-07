@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0a8bd6e-bac5-4efa-b033-3fc047d3ed14" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.mo" afterPath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/loco/plugins/woocommerce-vi.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" />
-    </list>
+    <list default="true" id="c0a8bd6e-bac5-4efa-b033-3fc047d3ed14" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +71,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+            <state relative-caret-position="185">
+              <caret line="46" column="67" lean-forward="true" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -418,15 +412,15 @@
       <workItem from="1527259702170" duration="15000" />
       <workItem from="1527518047120" duration="3763000" />
       <workItem from="1527694418614" duration="8412000" />
-      <workItem from="1528023697699" duration="2479000" />
+      <workItem from="1528023697699" duration="2709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31476000" />
+    <option name="totallyTimeSpent" value="31706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -878,8 +872,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        <state relative-caret-position="185">
+          <caret line="46" column="67" lean-forward="true" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
           <folding />
         </state>
       </provider>

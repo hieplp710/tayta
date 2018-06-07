@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-06-03 11:20+0000\n"
+"PO-Revision-Date: 2018-06-07 15:35+0000\n"
 "Last-Translator: admin <hieplp710@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -10182,7 +10182,7 @@ msgstr ""
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:623
 #: templates/emails/email-order-details.php:36
 msgid "Order #%s"
-msgstr ""
+msgstr "Đơn hàng #%s"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:342
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:138
@@ -19794,11 +19794,11 @@ msgstr ""
 #: includes/class-wc-form-handler.php:518
 #: includes/class-wc-form-handler.php:521
 msgid "%s removed."
-msgstr ""
+msgstr "%s đã bị xóa."
 
 #: includes/class-wc-form-handler.php:519
 msgid "Undo?"
-msgstr ""
+msgstr "Phục hồi"
 
 #: includes/class-wc-form-handler.php:572
 msgid "You can only have 1 %s in your cart."
