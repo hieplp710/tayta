@@ -357,6 +357,13 @@ Thank you for being part of the HMTL 5 mobile video revolution!
 
 == Changelog ==
 
+= 6.6.2 - 2018/06/04 =
+
+* Bugfix - "Load FV Flowplayer JS everywhere" setting - was not loading HLS.js library at all
+* Bugfix - Lightbox - JavaScript error for matching elements without href attribute
+* Bugfix - Video Position Saving - affecting even players which are not set to remember position
+* Bugfix - XML Video Sitemap - fix for conflict with Yoast SEO when the option to disable date archives is enabled
+
 = 6.6.1 - 2018/05/15 =
 
 * Autoplay - disabled in Chrome 66 for now as it won't permit video autoplay unless the user has already played some video on your website
