@@ -110,3 +110,22 @@ function auto_login_new_user( $user_id ) {
     exit;
 }
 add_action( 'user_register', 'auto_login_new_user' );
+
+
+add_action( 'woocommerce_product_query', '_hide_products_category_shop' );
+
+function _hide_products_category_shop( $q ) {
+
+    $tax_query = (array) $q->get( 'tax_query' );
+
+    $tax_query[] = array(
+        'taxonomy' => 'product_cat',
+        'field' => 'slug',
+        'terms' => array( 'sach-popup-ve-danh-lam-thang-canh', 'bo-suu-tam-kien-truc', 'bo-suu-tap-kien-chua-vn', 'sa-ban-kinh-thanh-hue' ), // Category slug here
+        'operator' => 'NOT IN'
+    );
+
+
+    $q->set( 'tax_query', $tax_query );
+
+}
